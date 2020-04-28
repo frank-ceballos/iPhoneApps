@@ -2,6 +2,8 @@
 
 A Portfolio of iPhone Apps
 
+## 01-I Am Poor
+
 The apps in this repo were created using the following hardware and software:
 
 ## **Hardware**
