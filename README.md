@@ -3,7 +3,10 @@
 A Portfolio of iPhone Apps
 
 ## 01-I Am Rich
-<img src = "images/01.png" class="center">
+<p align="center">
+  <img src = "images/01.png" class="center">
+</p>
+
 This app shows an image of a diamond which makes you feel rich for some reason.
 
 ## 02-I Am Poor
