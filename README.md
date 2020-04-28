@@ -25,8 +25,6 @@ might reflect the value of your bank account :(
 Dicee is an application that can help you rolll your dice. Tap the "Roll" button or shake your iPhone to roll them dice. 
 
 
-### The apps in this repo were created using the following hardware and software:
-
 ### **Hardware**
 
 Macbook Pro with Retina Display (late 2012 release)
