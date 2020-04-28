@@ -9,15 +9,19 @@ A Portfolio of iPhone Apps
 
 This app shows an image of a diamond which makes you feel rich for some reason.
 
+## 02-I Am Poor
 <p align="center">
   <img src = "images/02.png" class="center">
 </p>
 
-## 02-I Am Poor
 For our not so rich friends, we have the app I Am Poor. Once it loaded you will see a nice piece of coal that
 might reflect the value of your bank account :(
 
 ## 03-Dicee
+<p align="center">
+  <img src = "images/03.png" class="center">
+</p>
+
 Dicee is an application that can help you rolll your dice. Tap the "Roll" button or shake your iPhone to roll them dice. 
 
 
