@@ -1,6 +1,6 @@
 # iPhone Apps
 
-A Portfolio of iPhone Apps heavily based on the [Udemy Course](https://www.udemy.com/course/ios11-app-development-bootcamp/learn/lecture/7555800#overview)
+A Portfolio of iPhone Apps heavily based on the [Udemy Course](https://www.udemy.com/course/ios11-app-development-bootcamp/)
 
 ## 01-I Am Rich
 <p align="center">
