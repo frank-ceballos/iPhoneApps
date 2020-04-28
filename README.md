@@ -3,6 +3,7 @@
 A Portfolio of iPhone Apps
 
 ## 01-I Am Rich
+<img src = "images/01.png">
 This app shows an image of a diamond which makes you feel rich for some reason.
 
 ## 02-I Am Poor
@@ -13,16 +14,15 @@ might reflect the value of your bank account :(
 Dicee is an application that can help you rolll your dice. Tap the "Roll" button or shake your iPhone to roll them dice. 
 
 
+## The apps in this repo were created using the following hardware and software:
 
-# The apps in this repo were created using the following hardware and software:
-
-## **Hardware**
+### **Hardware**
 
 Macbook Pro with Retina Display (late 2012 release)
 
 iPhone 11 Model Number A211 with Software Version 13.4.1
 
-## **Software**
+### **Software**
 
 Operating Sytem: macOS Catalina version 10.15.4
 XCode Version 11.4.1 
