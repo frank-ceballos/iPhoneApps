@@ -24,12 +24,13 @@ might reflect the value of your bank account :(
 
 Dicee is an application that can help you rolll your dice. Tap the "Roll" button or shake your iPhone to roll them dice. 
 
-## 03-Dicee
+## 04-Magic 8 Ball
 <p align="center">
   <img src = "images/04.png" class="center">
 </p>
 
-8
+Use Magic 8 Ball to tell your fortune or if your seeking advice. Tap the "Ask" button or shake your iPhone after you ask your question to reveal your fortune.
+
 ### **Hardware**
 
 Macbook Pro with Retina Display (late 2012 release)
