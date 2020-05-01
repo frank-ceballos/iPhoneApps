@@ -31,6 +31,13 @@ Dicee is an application that can help you rolll your dice. Tap the "Roll" button
 
 Use Magic 8 Ball to tell your fortune or if your seeking advice. Tap the "Ask" button or shake your iPhone after you ask your question to reveal your fortune.
 
+## 05-Xylophone
+<p align="center">
+  <img src = "images/05.png" class="center">
+</p>
+
+Use the Xylophone app to create your melodies.
+
 ### **Hardware**
 
 Macbook Pro with Retina Display (late 2012 release)
