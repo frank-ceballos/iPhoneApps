@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37364F40-EDA5-4E6F-8CD1-D5ACE4C8B57F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D019126-B00B-466A-9311-1D97973969FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9D019126-B00B-466A-9311-1D97973969FB - c5a87e428a3f34b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini.ViewController.story3.getter : Swift.String"
+                  moduleName = "Destini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/frank/Documents/Programming/Udemy%20Courses/iOS11%20&amp;%20Swift%204/Section%2010/Destini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "9D019126-B00B-466A-9311-1D97973969FB - f33814248de2c52f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Destini.ViewController"
+                  moduleName = "Destini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/frank/Documents/Programming/Udemy%20Courses/iOS11%20&amp;%20Swift%204/Section%2010/Destini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "9D019126-B00B-466A-9311-1D97973969FB - 7cdcf77711c35911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Destini.ViewController&gt;"
+                  moduleName = "Destini"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/frank/Documents/Programming/Udemy%20Courses/iOS11%20&amp;%20Swift%204/Section%2010/Destini/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
