@@ -38,6 +38,21 @@ Use Magic 8 Ball to tell your fortune or if your seeking advice. Tap the "Ask" b
 
 Use the Xylophone app to create your melodies.
 
+
+## 06-Quizzler
+<p align="center">
+  <img src = "images/06.png" class="center">
+</p>
+
+Want to test your knowledge about random facts, then Quizzler is for you ;)
+
+## 07-Destinii
+<p align="center">
+  <img src = "images/07.png" class="center">
+</p>
+
+Choose your destiny and face your faith. 
+
 ### **Hardware**
 
 Macbook Pro with Retina Display (late 2012 release)
